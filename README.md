@@ -58,7 +58,7 @@ Portfolio: desktop version  project is the desktop version of my portiflio .
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-  > None
+  > https://solog0039.github.io/portifolio.github.io/
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
